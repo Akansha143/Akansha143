@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akansha Madavi</h1>
 <p align="center">
-  <img src="" alt="Banner" width="100%"/>
+  <img src="https://github.com/Akansha143/Akansha143/blob/main/bannerr.jpeg" alt="Banner" width="60%"/>
 </p>
 
 ## 🚀 About Me  
@@ -43,25 +43,25 @@
 
 ## 📊 GitHub Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" alt="GitHub Stats" width="47%" /> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" alt="GitHub Streak" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Akansha143&show_icons=true&theme=radical" alt="GitHub Stats" width="47%" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akansha143&theme=radical" alt="GitHub Streak" width="50%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical" alt="Top Languages" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akansha143&layout=compact&theme=radical" alt="Top Languages" width="47%" />
 </p>
 
 ---
 
 ## 🎯 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin-profile" target="_blank">
+  <a href="https://www.linkedin.com/in/akansha-madavi" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://github.com/your-github-username" target="_blank">
+  <a href="https://github.com/Akansha143/" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:akanshamadavi01@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
@@ -72,9 +72,9 @@
 ⚡ I love solving complex problems, building impactful projects, and organizing events!  
 
 ---
+<p align="center">
+  <span style="color:#F75C7E; font-size: 24px;"></span><br>
+  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&width=435&lines=Web+Developer;ML+Enthusiast;Problem+Solver)
+</p>
 
-## 🎨 Bonus Customizations  
-- 🌟 **Use GIFs from Giphy** for cool animations.  
-- 📌 **Add a typing animation**:  
-```md
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&width=435&lines=Web+Developer;ML+Enthusiast;Problem+Solver)
+
