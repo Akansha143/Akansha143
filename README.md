@@ -72,9 +72,4 @@
 ⚡ I love solving complex problems, building impactful projects, and organizing events!  
 
 ---
-<p align="center">
-  <span style="color:#F75C7E; font-size: 24px;"></span><br>
-  ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F75C7E&width=435&lines=Web+Developer;ML+Enthusiast;Problem+Solver)
-</p>
-
 
