@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akansha Madavi</h1>
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fphotos-images%2Fprogrammer-cartoon.html&psig=AOvVaw2b56eKCAUwg0ba39b0cL-6&ust=1742192418510000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPCFxtT6jYwDFQAAAAAdAAAAABAP" alt="Banner" width="100%"/>
+  <img src="" alt="Banner" width="100%"/>
 </p>
 
 ## 🚀 About Me  
